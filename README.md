@@ -1,4 +1,4 @@
-MENKOI BANNER : <img src="https://i.imgur.com/cwLTOc4.png"/></a>
+ <img src="https://i.imgur.com/cwLTOc4.png"/></a>
 
 BADGE : ![badmath](https://img.shields.io/badge/License-MIT-blue)
 
