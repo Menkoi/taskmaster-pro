@@ -8,6 +8,9 @@ BADGE : ![badmath](https://img.shields.io/badge/License-MIT-blue)
 Click the link below to vist he website
 https://menkoi.github.io/taskmaster-pro/
 
+## Screenshots
+<img src="https://i.imgur.com/OJIVMzP.png" />
+
  ## Questions? Contact me
 
   - Menkoi
