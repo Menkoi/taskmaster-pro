@@ -12,10 +12,3 @@ https://menkoi.github.io/taskmaster-pro/
 ## Screenshots
 <img src="https://i.imgur.com/OJIVMzP.png" />
 
- ## Questions? Contact me
-
-  - Menkoi
-
-  - https://github.com/Menkoi
-
-  - celaeon@gmail.com
